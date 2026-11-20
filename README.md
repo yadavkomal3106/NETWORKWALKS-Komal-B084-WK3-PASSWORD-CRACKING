@@ -96,10 +96,15 @@ To perform PDF hash extraction and password-cracking activities using NetworkWal
 
 **1. NetworkWalks Hash Calculator**
 
+![NetworkWalks Hash Calculator](./PM2-Password-Cracking-NW/01-Hash-Calculator.png)
 
 **2. NetworkWalks Password Cracker**
 
-**3. Output
+![NetworkWalks Password Cracker](./PM2-Password-Cracking-NW/02-Password-Cracker.png)
+
+**3. Password Cracking Output**
+
+![Password Cracking Output](./PM2-Password-Cracking-NW/03-Output.png)
 
 ### Learning Outcomes
 
@@ -151,16 +156,15 @@ To configure HexStrike AI with Claude Desktop through the Model Context Protocol
 
 **1. HexStrike API Server Setup**
 
-
+![HexStrike API Setup](./OPTIONAL-AI%20ASSISTED/01-hexstrike-api.png)
 
 **2. Claude MCP Configuration**
 
-
+![Claude MCP Configuration](./OPTIONAL-AI%20ASSISTED/02-mcp-configuration.png)
 
 **3. Claude Prompt and HexStrike Tool Execution**
 
-
-
+![Claude HexStrike Execution](./OPTIONAL-AI%20ASSISTED/03-claude-execution.png)
 
 ### Learning Outcomes
 
