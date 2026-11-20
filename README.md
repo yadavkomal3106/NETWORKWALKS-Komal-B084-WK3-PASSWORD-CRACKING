@@ -41,21 +41,19 @@ To install Johnny on Linux, understand its integration with John the Ripper, ext
 5. Loaded the extracted hash into Johnny.
 6. Performed the password-cracking exercise.
 7. Observed the cracking process and verified the result using the test PDF.
-
 ### Screenshots and Evidence
 
-**1. PDF Hash Extraction**
+**1. Johnny Configuration**
 
+![Johnny Configuration](./PM1-Password-Cracking-JTR/01-johnny-configuration.png)
 
+**2. PDF Hash Extraction**
 
+![PDF Hash Extraction](./PM1-Password-Cracking-JTR/02-Hash-Extraction.png)
 
-**2.  Johnny Interface and Password Cracking**
+**3. Johnny Interface and Password Cracking Result**
 
-
-**3. Johnny Configuration**
-
-
-
+![Johnny Interface and Password Cracking](./PM1-Password-Cracking-JTR/03-Johnny-interface-result.png)
 
 ### Learning Outcomes
 
